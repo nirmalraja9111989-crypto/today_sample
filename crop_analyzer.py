@@ -20,3 +20,5 @@ def analyze_crop(soil_type, rainfall):
 
     else:
         return ["No suitable crop found"]
+
+print("Success")
